@@ -3,7 +3,7 @@
 ## 로고
 
 <hr />
-<img src="https://jeongmoon.s3.ap-northeast-2.amazonaws.com/1640152020683.png" />
+<img src="https://user-images.githubusercontent.com/92348108/147043548-701caed3-9be5-49a4-85db-4b9bc8c357ea.png" />
 
 - CocktailFinder -ver 0.0.1
 - 프로젝트 기간 : 2021-12-15 ~ 2021-12-22
@@ -23,10 +23,10 @@
 
 <hr />
 
-- 검색
+- 검색 <br />
   <img src ="https://user-images.githubusercontent.com/92348108/147043125-23b7d909-59dd-473c-8700-ac1f21e8781e.gif">
 
-- 상세페이지
+- 상세페이지 <br />
   <img src="https://user-images.githubusercontent.com/92348108/147043263-ccd89f0e-3657-4252-93f1-bbaca3f6cdde.gif" />
 
 ## Team Role
