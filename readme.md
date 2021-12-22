@@ -9,15 +9,36 @@
 - 프로젝트 기간 : 2021-12-15 ~ 2021-12-22
 - [API 문서](https://documenter.getpostman.com/view/18192539/UVRBo6he)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" /> &nbsp
+  <img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white" /> &nbsp 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> &nbsp  
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> &nbsp 
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> &nbsp
+</p>
+
 ## 프로젝트 설명
 
 <hr />
+
 **칵테일을 찾기 쉬운 웹앱**. 칵테일을 어디서든 알기 쉽게 많은 정보를
 찾아보는 서비스 입니다.
 
 ## 페이지 흐름
 
 <hr />
+
+**웹**
+
+<hr />
+
+- 검색<br />
+  <img src ="https://user-images.githubusercontent.com/92348108/147044668-73f43848-bcec-4a2b-b7a3-1ba485dc8749.gif">
+
+- 상세페이지<hr />
+  <img src="https://user-images.githubusercontent.com/92348108/147043263-ccd89f0e-3657-4252-93f1-bbaca3f6cdde.gif" />
 
 **모바일**
 
@@ -79,6 +100,9 @@
 
 - quill : 칵테일 내용 입력 도구
 - react-google-charts : 차트 입력 도구
+- react-loading : 로딩 페이지만드는 도구
+- axios : 서버와 통신 하는 도구
+- styled-components : CSS 하는 도구
 
 ```
 "dependencies": {
@@ -95,6 +119,9 @@
     "multer": "^1.4.4",
     "multer-s3": "^2.10.0",
     "nodemon": "^2.0.15"
+    "react-loading": "^2.0.3"
+    "axios": "^0.24.0"
+    "styled-components": "^5.3.3"
   }
 ```
 
