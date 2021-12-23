@@ -127,11 +127,16 @@
 
 ## Architecture
 
-<img src="https://user-images.githubusercontent.com/92348108/147175851-5796aae3-b78a-4c01-854c-6decb4bf7aa8.jpg" />
+<img src="https://user-images.githubusercontent.com/92348108/147176171-eed468b4-463b-4785-a8d7-4b8551c3568e.jpg" />
 
 <hr />
 
-## DB ERD(나중에 추가 예정)
+## DB ERD
+
+<img src="https://user-images.githubusercontent.com/92348108/147177530-e9e75936-24f4-4d7a-b145-43be39f15784.jpg" />
+
+- 검은색은 구현 한것
+- 붉은색은 구현 예정
 
 <hr />
 
