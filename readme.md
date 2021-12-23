@@ -5,7 +5,7 @@
 <img width="200px" height="200px" src="https://user-images.githubusercontent.com/92348108/147043548-701caed3-9be5-49a4-85db-4b9bc8c357ea.png" />
 
 - CocktailFinder -ver 0.0.1
-- 프로젝트 기간 : 2021-12-15 ~ 2021-12-22
+- 프로젝트 기간 : 2021-12-15 ~ 2021-12-22 (업데이트 할 때 마다 변경)
 - [API 문서](https://documenter.getpostman.com/view/18192539/UVRBo6he)
 
 <p align="center">
@@ -128,7 +128,7 @@
 
 ## Architecture
 
-<img src="https://user-images.githubusercontent.com/92348108/147176171-eed468b4-463b-4785-a8d7-4b8551c3568e.jpg" />
+<img src="https://user-images.githubusercontent.com/92348108/147179686-47f2ceac-dec0-4858-8ac5-640b4a126f1c.jpg" />
 
 <hr />
 
@@ -153,11 +153,12 @@
 ## 사용된 도구
 
 - [Node.js](https://nodejs.org/ko/)
-- [Express.js](https://expressjs.com/ko/)
+- [Express.js](https://expressjs.com/ko/) - 서버 프레임
 - [NPM](https://www.npmjs.com/) - 패키지 관리자
 - [MongoDB](https://www.mongodb.com/kr) - No Sql DataBase
 - [Nginx](https://www.nginx.com/) - 프록시 서버용
 - [AWS](https://aws.amazon.com/ko/free/?trk=fa2d6ba3-df80-4d24-a453-bf30ad163af9&sc_channel=ps&sc_campaign=acquisition&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Core-Main|Core|KR|KR|Text&ef_id=CjwKCAiAtouOBhA6EiwA2nLKH3yewzaFlNVOE3uV7M2uIgGP-lZzRaHZgO2CN5cgIw6yDqIvmcBBrRoC1egQAvD_BwE:G:s&s_kwcid=AL!4422!3!563761819834!e!!g!!aws&ef_id=CjwKCAiAtouOBhA6EiwA2nLKH3yewzaFlNVOE3uV7M2uIgGP-lZzRaHZgO2CN5cgIw6yDqIvmcBBrRoC1egQAvD_BwE:G:s&s_kwcid=AL!4422!3!563761819834!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all) - 서버 및 스토리지
+- [Git](https://github.com/) - 협업용(잘 못쓴거 같음)
 
 <hr />
 
