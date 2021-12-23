@@ -151,18 +151,19 @@
 
 ## 사용된 도구
 
-- Node.js
-- Express.js
-- NPM - 패키지 관리자
-- MongoDB - No Sql DataBase
-- Nginx - 프록시 서버용
+- [Node.js](https://nodejs.org/ko/)
+- [Express.js](https://expressjs.com/ko/)
+- [NPM](https://www.npmjs.com/) - 패키지 관리자
+- [MongoDB](https://www.mongodb.com/kr) - No Sql DataBase
+- [Nginx](https://www.nginx.com/) - 프록시 서버용
+- [AWS](https://aws.amazon.com/ko/free/?trk=fa2d6ba3-df80-4d24-a453-bf30ad163af9&sc_channel=ps&sc_campaign=acquisition&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Core-Main|Core|KR|KR|Text&ef_id=CjwKCAiAtouOBhA6EiwA2nLKH3yewzaFlNVOE3uV7M2uIgGP-lZzRaHZgO2CN5cgIw6yDqIvmcBBrRoC1egQAvD_BwE:G:s&s_kwcid=AL!4422!3!563761819834!e!!g!!aws&ef_id=CjwKCAiAtouOBhA6EiwA2nLKH3yewzaFlNVOE3uV7M2uIgGP-lZzRaHZgO2CN5cgIw6yDqIvmcBBrRoC1egQAvD_BwE:G:s&s_kwcid=AL!4422!3!563761819834!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all) - 서버 및 스토리지
 
 <hr />
 
 ## 개발자
 
-- 표정문
-- 김성현
+- [표정문](https://github.com/jeongmooon)
+- [김성현](https://github.com/constate)
 
 <hr />
 
