@@ -2,7 +2,6 @@
 
 ## 로고
 
-<hr />
 <img width="200px" height="200px" src="https://user-images.githubusercontent.com/92348108/147043548-701caed3-9be5-49a4-85db-4b9bc8c357ea.png" />
 
 - CocktailFinder -ver 0.0.1
@@ -18,6 +17,8 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> &nbsp 
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> &nbsp
 </p>
+
+<hr />
 
 ## 프로젝트 설명
 
