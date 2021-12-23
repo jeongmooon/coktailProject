@@ -32,17 +32,15 @@
 
 **웹**
 
-<hr />
-
 - 검색<br />
   <img src ="https://user-images.githubusercontent.com/92348108/147044668-73f43848-bcec-4a2b-b7a3-1ba485dc8749.gif">
 
 - 상세페이지<hr />
   <img src="https://user-images.githubusercontent.com/92348108/147043263-ccd89f0e-3657-4252-93f1-bbaca3f6cdde.gif" />
 
-**모바일**
-
 <hr />
+
+**모바일**
 
 - 검색 <br />
   <img src ="https://user-images.githubusercontent.com/92348108/147044668-73f43848-bcec-4a2b-b7a3-1ba485dc8749.gif">
@@ -50,9 +48,9 @@
 - 상세페이지 <br />
   <img src="https://user-images.githubusercontent.com/92348108/147043263-ccd89f0e-3657-4252-93f1-bbaca3f6cdde.gif" />
 
-## Team Role
-
 <hr />
+
+## Team Role
 
 공통
 
@@ -71,9 +69,9 @@
 > - Frontend Page, Containerm, Component 구성
 > - 데이터 저장
 
-## 특징
-
 <hr />
+
+## 특징
 
 - url로 관리자 계정 회원가입 후 게시글 관리
 - 칵테일 검색기능
@@ -81,13 +79,21 @@
 - 랜덤한 칵테일 추천
 - 중복되지 않는 칵테일 넘버 생성
 
-## Package
-
 <hr />
+
+## Package
 
 사용한 패키지
 
-// Backend
+**Front**
+
+- quill : 칵테일 내용 입력 도구
+- react-google-charts : 차트 입력 도구
+- react-loading : 로딩 페이지만드는 도구
+- axios : 서버와 통신 하는 도구
+- styled-components : CSS 하는 도구
+
+**Backend**
 
 - crypto : 패스워드 암호화 및 인증
 - express : 웹, 서버 개발 프레임 워크
@@ -95,14 +101,6 @@
 - multer : 파일 업로드 도구
 - multer - s3 : AWS S3 파일 업로드 도구
 - cors : corss-origin 문제 해결 도구
-
-// Front
-
-- quill : 칵테일 내용 입력 도구
-- react-google-charts : 차트 입력 도구
-- react-loading : 로딩 페이지만드는 도구
-- axios : 서버와 통신 하는 도구
-- styled-components : CSS 하는 도구
 
 ```
 "dependencies": {
@@ -125,7 +123,11 @@
   }
 ```
 
+<hr />
+
 ## Architecture
+
+<img src="https://user-images.githubusercontent.com/92348108/147175851-5796aae3-b78a-4c01-854c-6decb4bf7aa8.jpg" />
 
 <hr />
 
@@ -135,16 +137,14 @@
 
 ## 배포
 
-<hr />
-
 - AWS S3 - 클라우드 데이터 저장
 - AWS EC2 - Server 호스팅
 - Atlas - MongoDB 클라우드 호스팅 서비스
 - Nginx - 프록시 서버
 
-## 사용된 도구
-
 <hr />
+
+## 사용된 도구
 
 - Node.js
 - Express.js
@@ -152,16 +152,16 @@
 - MongoDB - No Sql DataBase
 - Nginx - 프록시 서버용
 
-## 개발자
-
 <hr />
+
+## 개발자
 
 - 표정문
 - 김성현
 
-## 차후 업데이트 목록
-
 <hr />
+
+## 차후 업데이트 목록
 
 - DB 스키마 구조 정밀화
 - amdinPage 구성
